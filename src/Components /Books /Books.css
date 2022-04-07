@@ -1,0 +1,55 @@
+.books-container {
+  /* background-color: aliceblue; */
+  background-image: url("https://www.freebooks-app.com/wp-content/uploads/2019/11/free-books-application-logo-01.png");
+  padding: 50px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+   align-items: center;
+  height: 100vh;
+
+
+}
+.card {
+    background-color: whitesmoke;
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgb(156, 13, 13);
+    margin-top: 10px;
+    border-color: black;
+}
+
+.input{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom:20px;
+}
+.label{
+    font-size: 15px;
+    margin-bottom: 20px;
+    padding-right: 10px;
+    width: 140px;
+    font-weight: 700;
+    color: palevioletred;
+
+}
+.button{
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: rgb(197, 104, 192);
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+.title{
+    font-size: 30px;
+    color: rgb(231, 133, 210);
+    text-align: center;
+}

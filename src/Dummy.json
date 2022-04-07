@@ -1,0 +1,75 @@
+{
+    "books": [
+        {
+            "bookId": 1,
+            "title": "The Harry Potter and the Philosopher's Stone",
+            "author": "J.K Rowling",
+            "genre": "Fantasy",
+            "price": 12.99
+        },
+        {
+            "bookId": 2,
+            "title": "The Half GirlFriend",
+            "author": "Chetan Bhagat",
+            "genre": "Romance",
+            "price": 12.99
+        },
+        {
+            "bookId": 3,
+            "title": "The Guardians",
+            "author": "John Grisham",
+            "genre": "Fantasy",
+            "price": 12.99
+        },
+        {
+            "bookId": 4,
+            "title": "Three Mistakes of my Life",
+            "author": "Chetan Bhagat",
+            "genre": "Fiction",
+            "price": 12.99
+        },
+        {
+            "bookId": 5,
+            "title": "2 states",
+            "author": "Chethan Bhagat",
+            "genre": "Romance",
+            "price": 12.99
+        },
+        {
+            "bookId": 6,
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "price": 12.99
+        },
+        {
+            "bookId": 7,
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "genre": "Fiction",
+            "price": 12.99
+        },
+        {
+            "bookId": 8,
+            "title": "The White Tiger",
+            "author": "Aditya Adiga",
+            "genre": "Fantasy",
+            "price": 12.99
+        },
+        {
+            "bookId": 9,
+            "title": "Fasting Feasting",
+            "author": "Anita Desai",
+            "genre": "Fiction",
+            "price": 12.99
+        },
+        {
+            "bookId": 10,
+            "title": "Wings of Fire",
+            "author": "A.P.J. Abdul Kalam",
+            "genre": "Inspirational Fiction",
+            "price": 12.99
+        }
+        
+    ]
+}

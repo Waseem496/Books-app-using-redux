@@ -1,0 +1,40 @@
+.viewscreen{
+    display: flex;
+    flex-direction: row;
+    
+}
+.book-card{
+    background-color: whitesmoke; 
+    width: 200px;
+    height:300px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgb(156, 13, 13);
+    margin-top: 10px;
+
+}
+
+.title{
+    font-size: 8px;
+    color: rgb(182, 51, 12);
+    
+}
+.author{
+    font-size: 6px;
+    color: #030303;
+}
+.price{
+    font-size: 6px;
+    color: #030303;
+}
+.back-button{
+    width: 20%;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: rgb(197, 104, 192);
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
